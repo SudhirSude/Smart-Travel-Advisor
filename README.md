@@ -13,11 +13,8 @@ This guide provides instructions to set up and run the project.
 
 ## Installation
 
-1. **Clone the Repository** (if applicable):
-   ```bash
-   git clone <repository-url>
-   cd <repository-directory>
-   ```
+1. **Clone the Repository** :
+   
 
 2. **Create a Virtual Environment** (recommended):
    ```bash
