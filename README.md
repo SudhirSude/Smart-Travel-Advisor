@@ -1,6 +1,10 @@
 # Smart-Travel-Advisor
 This project integrates machine learning and RAG to provide a robust travel assistant, leveraging advanced NLP and predictive modeling for user-friendly travel insights.
 
+![Screenshot 2025-07-07 225523](https://github.com/user-attachments/assets/467df0ad-6d66-41b7-bb17-b3b9e41501b0)
+![Screenshot 2025-07-07 225837](https://github.com/user-attachments/assets/755714a0-d75e-40bd-a420-3a08adce0a32)
+
+
 This guide provides instructions to set up and run the project.
 
 ## Prerequisites
